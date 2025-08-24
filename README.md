@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shakira Regalado</h1>
-<p>A passionate full-stack developer from Bicol University</p>
+<p>A goal-driven full-stack developer from Bicol University</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://babeljs.io/" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="42" height="42" /></a>
 <a target="_blank" href="https://getbootstrap.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
