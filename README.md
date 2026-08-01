@@ -15,9 +15,9 @@
 ---
 
 ### 🚀 About Me
-* 🎓 **BSIT Graduate** from **Bicol University** *(Magna Cum Laude)*[cite: 1]
-* 🛡️ **DOST-SEI JLSS Scholar** specializing in public safety systems, automated HRIS platforms, and enterprise solutions[cite: 1]
-* 🏆 Experienced in engineering award-winning multi-platform applications and directory ecosystems[cite: 1]
+* 🎓 **BSIT Graduate** from **Bicol University** *(Magna Cum Laude)*
+* 🛡️ **DOST-SEI JLSS Scholar** specializing in public safety systems, automated HRIS platforms, and enterprise solutions
+* 🏆 Experienced in engineering award-winning multi-platform applications and directory ecosystems
 
 ---
 
