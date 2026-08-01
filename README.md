@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Shakira Regalado</h1>
-  <p><b>Full-Stack & Mobile Developer</b> | Magna Cum Laude BSIT Graduate</p>
+  <p><b>Software Engineer</b> | Full-Stack Web & Mobile</p>
 
   <p>
     <a href="https://www.linkedin.com/in/shakira-regalado" target="_blank">
@@ -15,8 +15,8 @@
 ---
 
 ### 🚀 About Me
-* 🎓 **BSIT Graduate** from **Bicol University** *(Magna Cum Laude)*
-* 🛡️ **DOST-SEI JLSS Scholar** specializing in public safety systems, automated HRIS platforms, and enterprise solutions
+* 💻 **Software Engineer** specializing in full-stack web platforms and cross-platform mobile development
+* 🛡️ Focused on building scalable backend architectures, automated pipelines, and responsive user interfaces
 * 🏆 Experienced in engineering award-winning multi-platform applications and directory ecosystems
 
 ---
