@@ -14,11 +14,6 @@
 
 ---
 
-### 🚀 About Me
-* 💻 **Software Engineer** specializing in full-stack web platforms and cross-platform mobile development
-* 🛡️ Focused on building scalable backend architectures, automated pipelines, and responsive user interfaces
-* 🏆 Experienced in engineering award-winning multi-platform applications and directory ecosystems
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hereskira/hereskira/output/github-snake-dark.svg" />
